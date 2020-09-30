@@ -188,7 +188,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions for Deno](https://github.com/denolib/setup-deno)
 - [GitHub Actions for Unity](https://github.com/webbertakken/unity-actions)
 - [Octions - GitHub Actions for GitHub REST API](https://github.com/maxkomarychev/octions)
-- [GitHub Actions for Docker](https://github.com/docker/github-actions)
 - [GitHub Actions for AWS](https://github.com/clowdhaus/aws-github-actions)
 - [GitHub Actions for AzureRm](https://github.com/ahmedig/terraform-azurerm-backend)
 - [Actions Hub](https://github.com/actionshub)
@@ -540,6 +539,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Docker
 
+- [Build and Push Docker Images With Buildx](https://github.com/docker/build-push-action)
+- [Login Against a Docker Registry](https://github.com/docker/login-action)
+- [Set Up Docker Buildx](https://github.com/docker/setup-buildx-action)
+- [Install QEMU Static Binaries](https://github.com/docker/setup-qemu-action)
 - [Update a Docker Hub repository description from README.md](https://github.com/peter-evans/dockerhub-description)
 - [Publish Docker Images to the GitHub Package Registry (GPR)](https://github.com/machine-learning-apps/gpr-docker-publish)
 - [Update a repository's "Full description" on Docker Hub](https://github.com/mpepping/github-actions/tree/master/docker-hub-metadata)
