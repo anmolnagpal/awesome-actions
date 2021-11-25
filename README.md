@@ -487,6 +487,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Deploy a YouTube Video to Anchor.fm Podcast](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)
 - [Deploy self-hosted, auto-scaling GitHub Action runners in Kubernetes, Docker, VMs and bare metal environments](https://github.com/jonico/awesome-runners) 
 - [Deploy with AWS CodeDeploy](https://github.com/webfactory/create-aws-codedeploy-deployment)
+- [Publish a Tableau Workbooks to Tableau Server](https://github.com/jayamanikharyono/tableau-workbook-action) - An Action to easily publish your Tableau Workbook to Tableau Server upon Pull Request
 
 #### Docker
 
