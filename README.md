@@ -635,6 +635,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Setup Auto-scaled self-hosted GitHub Actions Runners on AWS Spot-instances](https://040code.github.io/2020/05/25/scaling-selfhosted-action-runners)
 - [CI-for-Research – GitHub Self-Hosted Runner Guides	](https://github.com/ci-for-research/self-hosted-runners) - Collection of guides explaining how to set up GitHub self-hosted runners on several platforms.
 - [Getting the Gist of GitHub Actions](https://gist.github.com/br3ndonland/f9c753eb27381f97336aa21b8d932be6)
+- [Docker-based GitHub Actions in orphan branches](https://madhead.me/posts/orphan-action).
 - [Define Pools of self-hosted Action Runners on LXD, OpenStack or Other Clouds Using Garm](https://github.com/cloudbase/garm/)
 - [Building GitHub Actions](https://actionsbook.com/)
 
