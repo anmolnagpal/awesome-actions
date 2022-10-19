@@ -604,6 +604,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action)
 - [Translation](https://github.com/fabasoad/translation-action) - Translate text from any language to any language.
+- [Issues Translate Action](https://github.com/usthe/issues-translate-action) - The action for translating Non-English issues content to English.
 
 - [On-Demand Self-Hosted AWS EC2 Runner](https://github.com/machulav/ec2-github-runner)
 
