@@ -252,6 +252,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Action Locks](https://github.com/abatilo/github-action-locks/blob/master/README.md) - Guarantee atomic execution of your GitHub Action workflows.
 - [Paths Filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits.
 - [Minisauras](https://github.com/TeamTigers/minisauras) -  Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch.
+- [GitHub Stats Card](https://github.com/datarootsio/github-stats-card) - A minimal but inclusive GitHub stats badge. 
 - [Barklarm](https://github.com/kanekotic/barklarm) - Radiator that shows the status of your projects build as an item in the tray menu bar.
 - [Cached LFS checkout](https://github.com/nschloe/action-cached-lfs-checkout) - Cached checkout of LFS resources.
 - [Setup Vim/Neovim](https://github.com/rhysd/action-setup-vim) - Install Vim/Neovim for testing editor plugins.
