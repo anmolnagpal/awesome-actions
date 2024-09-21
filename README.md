@@ -159,6 +159,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Herald Rules for GitHub: Add Subscribers, Assignees, Labels, and More to Your PR](https://github.com/gagoar/use-herald-action)
 - [GitHub Codeowners Validator](https://github.com/mszostok/codeowners-validator) - Ensures the correctness of your GitHub CODEOWNERS file. It supports public and private GitHub repositories and also GitHub Enterprise installations.
 - [Copybara Action](https://github.com/olivr/copybara-action) - Move and transform code between repositories (ideal to maintain several repos from one monorepo).
+- [Action Debug VSCode](https://github.com/fawazahmed0/action-debug-vscode) - Remote Access your GitHub Actions via Browser Based VS Code.
 - [Manage labels with configurable rules in Pull Requests and Issues](https://github.com/srvaroa/labeler/) - Action based on configurable rules that match on properties of Pull Requests and Issues to assign/remove labels automatically.
 - [File Storage Action](https://github.com/moonrailgun/branch-filestorage-action) - Make github repo's branch as file storage. Useful as a filedb persistence scheme
 - [Changed Filenames GitHub Action](https://github.com/DawChihLiou/changed-files-action) - This action returns all the changed files in a pull request. The changed files includes added, modified, renamed, and removed files.
