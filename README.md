@@ -264,6 +264,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [ReDoc CLI GitHub Action](https://github.com/seeebiii/redoc-cli-github-action) - Use redoc-cli in your GitHub Action to generate OpenAPI documentation.
 - [Website to GIF](https://github.com/PabloLec/website-to-gif) - Turn any webpage into a GIF to display on your README, docs, etc.
 - [Interactive Inputs - Runtime workflow inputs](https://github.com/boasiHQ/interactive-inputs) - Add dynamic inputs at runtime for your GitHub Actions workflows
+- [Draw.io Export Action](https://github.com/rlespinasse/drawio-export-action) - Recursively export Draw.io Files to multiple formats.
 
 #### Environments
 
