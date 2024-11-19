@@ -547,6 +547,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Sync/upload a directory to an AWS S3 bucket](https://github.com/jakejarvis/s3-sync-action)
 - [Deploy Lambda code to an existing function](https://github.com/appleboy/lambda-action)
+- [CloudFront Invalidator](https://github.com/foxdalas/cloudfront-invalidator-action) - Invalidate CloudFront cache
 - [Deploy a Helm chart to the EKS](https://github.com/peymanmortazavi/eks-helm-deploy)
 - [Invoke a Lambda Function](https://github.com/gagoar/invoke-aws-lambda)
 - [Deploy Static Site to AWS](https://github.com/onramper/action-deploy-aws-static-site)
