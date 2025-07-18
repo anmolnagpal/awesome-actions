@@ -520,6 +520,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Deploy to Vercel](https://github.com/amondnet/vercel-action) - Deploying via GitHub action allows more granular control than through the Vercel-GitHub integration.
 - [Deploy self-hosted, auto-scaling GitHub Action runners in Kubernetes, Docker, VMs and bare metal environments](https://github.com/jonico/awesome-runners) 
 - [Deploy with AWS CodeDeploy](https://github.com/webfactory/create-aws-codedeploy-deployment)
+- [Deploy With RepoForge.io](https://github.com/chris104957/repoforge-publish-action)
 - [Publish a Tableau Workbooks to Tableau Server](https://github.com/jayamanikharyono/tableau-workbook-action) - An Action to easily publish your Tableau Workbook to Tableau Server upon Pull Request
 
 #### Docker
