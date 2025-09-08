@@ -317,6 +317,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Rerun actions and commands](https://github.com/Wandalen/wretry.action)
 - [Display report from the test results directly in GitHub](https://github.com/dorny/test-reporter)
 - [Run Julia tests](https://github.com/julia-actions/julia-runtest)
+- [Build and Test Swift Packages](https://github.com/brightdigit/swift-build)
 
 #### Linting
 
@@ -661,6 +662,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Setup Auto-scaled self-hosted GitHub Actions Runners on AWS Spot-instances](https://040code.github.io/2020/05/25/scaling-selfhosted-action-runners)
 - [CI-for-Research – GitHub Self-Hosted Runner Guides	](https://github.com/ci-for-research/self-hosted-runners) - Collection of guides explaining how to set up GitHub self-hosted runners on several platforms.
 - [Getting the Gist of GitHub Actions](https://gist.github.com/br3ndonland/f9c753eb27381f97336aa21b8d932be6)
+- [Introducing swift-build: A GitHub Action for Swift](https://brightdigit.com/tutorials/swift-build/)
 - [Docker-based GitHub Actions in orphan branches](https://madhead.me/posts/orphan-action).
 - [Define Pools of self-hosted Action Runners on LXD, OpenStack or Other Clouds Using Garm](https://github.com/cloudbase/garm/)
 - [Building GitHub Actions](https://actionsbook.com/)
