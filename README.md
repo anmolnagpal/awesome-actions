@@ -669,3 +669,5 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Building GitHub Actions](https://actionsbook.com/)
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information.
+
+- Small action idea by @ex1234
