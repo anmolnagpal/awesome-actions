@@ -296,6 +296,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [SemVer utils](https://github.com/madhead/semver-utils) - One-stop shop for working with semantic versions in your GitHub Actions workflows. Parsing, comparing and bumping SemVers in a single action.
 
 ### Static Analysis
+- [Lint Cursor AI Rules](https://github.com/cursorrulespacks/cursor-lint-action) - Lint .mdc and .cursorrules files, catching broken frontmatter and missing fields that silently break AI code generation.
 
 - [PHPStan Static code analyzer Action](https://github.com/OskarStark/phpstan-ga)
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
