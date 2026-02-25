@@ -443,6 +443,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
 - [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
 - [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
+- [AI Code Review with Claude](https://github.com/indoor47/claude-pr-reviewer) - Post structured AI code review comments on every PR using Claude. Zero dependencies, Python stdlib only.
 - [GitHub PR Bot](https://github.com/jacsamell/github-pr-bot) - AI-powered PR review bot with auto-approval capabilities using your LLM of choice.
 - [Get Merged Pull Requests](https://github.com/VanOns/get-merged-pull-requests-action) - GitHub action that compares 2 tags and retrieves all pull requests merged between them.
 - [Automatically compose a PR title and description based on a semantic branch name. Optional OpenAI integration](https://github.com/mateoguzmana/semantic-pr-composer)
