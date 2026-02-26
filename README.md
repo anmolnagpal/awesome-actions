@@ -653,6 +653,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Fun
 
 - [Add equivalent of a like button in your README](https://github.com/ariary/Readme-Like-Button) - Visualize community approval on some part of your readme (can be used as a poll).
+- [Weekly create new repos along with linkedin post](https://github.com/GiulianoDami/repo-creator-linkedin-flexer) - Have an AI weekly read a scientific news, creates a simple repo inspired by it and sends a telegram message with a linkedin post related to it.
 - [Oh My GitHub Circles](https://github.com/hooopo/oh-my-github-circles) - GitHub User Circle Generator Using GitHub Actions
 
 ### Cheat Sheet
