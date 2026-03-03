@@ -4,9 +4,11 @@
   <br>
 </p>
 
-# Awesome Actions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<!--lint ignore no-dead-urls-->![GitHub Actions status | sdras/awesome-actions](https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)](https://github.com/sdras/awesome-actions/actions?workflow=Lint+Awesome+List)
+# Awesome Actions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Lint Awesome List](https://github.com/anmolnagpal/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)](https://github.com/anmolnagpal/awesome-actions/actions?workflow=Lint+Awesome+List) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/anmolnagpal/awesome-actions/pulls)
 
 > A curated list of awesome things related to GitHub Actions.
+
+> **Actively maintained fork** of [sdras/awesome-actions](https://github.com/sdras/awesome-actions). The original repository has been inactive since 2022, with 100+ community PRs left unmerged. This fork incorporates all outstanding contributions and welcomes new ones. PRs are reviewed and merged promptly.
 
 Actions are triggered by GitHub platform events directly in a repo and run on-demand workflows either on Linux, Windows or macOS virtual machines or inside a container in response. With GitHub Actions you can automate your workflow from idea to production.
 
