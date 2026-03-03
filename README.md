@@ -17,18 +17,34 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Official Resources](#official-resources)
   - [Workflow Examples](#workflow-examples)
   - [Official Actions](#official-actions)
+    - [Workflow Tool Actions](#workflow-tool-actions)
+    - [Actions for GitHub Automation](#actions-for-github-automation)
+    - [Setup Actions](#setup-actions)
   - [Create your Actions](#create-your-actions)
+    - [JavaScript and TypeScript Actions](#javascript-and-typescript-actions)
+    - [Docker Container Actions](#docker-container-actions)
 - [Community Resources](#community-resources)
   - [GitHub Tools and Management](#github-tools-and-management)
   - [Collection of Actions](#collection-of-actions)
   - [Utility](#utility)
+    - [Environments](#environments)
+    - [Dependencies](#dependencies)
+    - [Semantic Versioning](#semantic-versioning)
   - [Static Analysis](#static-analysis)
+    - [Testing](#testing)
+    - [Linting](#linting)
+    - [Security](#security)
+    - [Code Coverage](#code-coverage)
   - [Dynamic Analysis](#dynamic-analysis)
   - [Monitoring](#monitoring)
   - [Pull Requests](#pull-requests)
   - [GitHub Pages](#github-pages)
   - [Notifications and Messages](#notifications-and-messages)
   - [Deployment](#deployment)
+    - [Docker](#docker)
+    - [Kubernetes](#kubernetes)
+    - [AWS](#aws)
+    - [Terraform](#terraform)
   - [External Services](#external-services)
   - [Frontend Tools](#frontend-tools)
   - [Machine Learning Ops](#machine-learning-ops)
@@ -110,10 +126,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [actions/hello-world-docker-action](https://github.com/actions/hello-world-docker-action) - A template to demonstrate how to build a Docker action.
 - [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using actions/toolkit.
-#### Runners
-
-- [Adding self-hosted runners](https://help.github.com/en/actions/hosting-your-own-runners/adding-self-hosted-runners)
-- [Systemd - Configuring self-hosted runner service](https://help.github.com/en/actions/hosting-your-own-runners/configuring-the-self-hosted-runner-application-as-a-service)
 
 ## Community Resources
 
@@ -586,6 +598,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Database
 
+- [liquibase/liquibase-github-actions](https://github.com/liquibase/liquibase-github-actions) - Run Liquibase database schema change management commands.
+- [supabase/setup-cli](https://github.com/supabase/setup-cli) - Set up the Supabase CLI to manage Postgres databases and migrations.
+- [ariga/atlas-action](https://github.com/ariga/atlas-action) - Run Atlas schema migrations for versioned database schema management.
+
 ### Networking
 
 - [Setup ZeroTier](https://github.com/zerotier/github-action) - Connect your runner to a ZeroTier network.
@@ -603,6 +619,11 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Localazy Upload](https://github.com/marketplace/actions/localazy-upload) - Upload your translation source file to [Localazy](https://localazy.com)
 - [Localazy Download](https://github.com/marketplace/actions/localazy-download) - Download translated files from [Localazy](https://localazy.com)
+
+### Runners
+
+- [Adding self-hosted runners](https://help.github.com/en/actions/hosting-your-own-runners/adding-self-hosted-runners)
+- [Systemd - Configuring self-hosted runner service](https://help.github.com/en/actions/hosting-your-own-runners/configuring-the-self-hosted-runner-application-as-a-service)
 
 ### Fun
 
